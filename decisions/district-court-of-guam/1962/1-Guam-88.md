@@ -1,0 +1,31 @@
+---
+court: "District Court of Guam"
+docket: "Civil No. 30-A"
+decided: "1962-04-18"
+citations: ["1 Guam 88"]
+reporter: "guam"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before SHRIVER, District Court Judge, Presiding; FUR-BER, Chief Justice, Trust Territory of the Pacific Islands"]
+parties: ["BERNARDINO C. TAIJERON and ANA D. TAIJERON, Appellants v. JOSE C. TYDINGCO, Appellee"]
+source_url: "https://static.case.law/guam/1/cases/0088-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5313915
+cites_cases: ["163 F.2d 796", "221 F.2d 228", "288 F.2d 19", "29 F.2d 92", "48 F.2d 166", "72 F.2d 859", "96 A.L.R. 937"]
+---
+
+# Taijeron v. Tydingco
+
+## Majority (PER CURIAM)
+
+PER CURIAM
+OPINION
+The above-entitled appeal came on for oral argument the 18th day of April, 1962, before the above judges, constituting a quorum of the Appellate Division of the District Court of Guam. We have jurisdiction under Section 22(a) of the Organic Act of Guam, as amended, 48 U.S.C. 1424, and Part I, Chapter 2 of the Code of Civil Procedure of Guam. The plaintiffs, appellants here, filed their complaint in the Island Court of Guam under date of January 19,1961. This complaint was headed a complaint to set aside judgments and for declaratory relief. In paragraph II of their complaint they alleged that they are husband and wife and had been in continuous, actual, notorious and open possession of certain land in Guam. In paragraph III they alleged that they were the owners of such land since 1946 and had constructed a house thereon. The complaint then alleges that a land registration action was filed in the Island Court in 1957 and that an abstract filed in connection therewith showed interests on the part of plaintiffs. The remainder of the complaint then alleges judicial proceedings in the Island Court of Guam, and in the prayer the plaintiffs ask that certain adverse judgments be set aside. We are not concerned with the merits of these various contentions. It appears that the appellants had been ordered to vacate the premises, which order was stayed by the Island Court, and the appellee here, under date of February 2, 1961, filed a motion to quash the order staying the ejectment proceedings, to dismiss the complaint filed herein, and for an order to enforce the ejectment. In the motion it was alleged that under the principle of “res judicata” the issues presented by the complaint had all been decided in the various court actions below. Under date of February 7, 1961, the Island Court éntered its order in which it made specific findings adverse to the appellants and held that the issues presented by the complaint had been decided in the various court proceedings and that the matters raised in the complaint were “res judicata.” The appeal followed.
+We are of the opinion that we must reverse under the authority of Guam Investment Company, Inc. v. Central Building, Inc. (1961), 288 F.2d 19. In this case, as in the instant case, the District Court of Guam had dismissed a subsequently-filed complaint on the ground of “res judicata.” The District Court held that previous litigation had disposed of the issues raised in the complaint. In reversing the District Court, the Court of Appeals stated;
+“In the order of dismissal of the complaint the district court stated that it took judicial notice of record in Civil No. 49-55, and that all issues raised in the present case were finally settled and adjudicated in said case and that plaintiffs [appellants] are therefore forever barred and precluded from raising said issues in the present or in any further action. The above mentioned order of dismissal was entered notwithstanding the fact that the appellees filed no responsive pleading to the complaint of appellants, nor was the record in the prior case, Civil No. 49-55, offered or received in evidence.
+“Rule 8, Federal Rules of Civil Procedure, which is entitled ‘General Rules of Pleading’, provides in (c) thereof in material parts as follows: ‘(c) Affirmative Defenses. In pleading to a preceding pleading, a party shall set forth affirmatively . . . , res judicata, . . . .’ The general rule applicable to this situation is well stated in Lowe, etc., et al. v. McDonald, et al. (9th Cir. 1955), 221 F.2d 228, as follows:
+‘As a general rule, a court in one case will not take judicial notice of its own records in another and distinct case even between the same parties, unless the prior proceedings are introduced into evidence.
+“As stated in Paridy v. Caterpillar Tractor Co. (7th Cir., 1931), 48 F.2d 166, at page 169:
+“The reason for the rule above referred to is that the decision of a cause must depend upon the evidence introduced. If the courts should recognize judicially facts adjudicated in another case, it makes those facts, though unsupported by evidence in the case in hand, conclusive against the opposing party; while if they had been properly introduced they might have been met and overcome by him. So, on a plea of res adjudicaba, a court cannot judicially notice that the matters in issue are the same as those in a former suit. Such matters must be pleaded and proved. 15 R.G.L. p. 1111, § 42.’ ’’
+Rule 8(c) of the Island Court Rules is the same as Rule 8 (c) of the Federal Rules of Civil Procedure, and the Guam Investment Company case, supra, is therefore controlling. We note that during the course of oral argument the appellants contended that their action is primarily one to quiet title and not one for declaratory judgment. We do not determine the question as to whether the complaint fails to state facts sufficient to justify relief, as the Island Court based its conclusion on res judicata. We simply hold that the defense of res judicata must be raised as an affirmative defense and supported. Reversed for further proceedings in accordance with this opinion.
+‘3 National Surety Co. v. United States, 9 Cir., 29 F.2d 92, 97; Paridy v. Caterpillar Tractor Co., 7 Cir., 48 F.2d 166, 168; Divide Creek Irr. Dist. v. Hollingsworth, 10 Cir., 72 F.2d 859, 862, 863, 96 A.L.R. 937; Funk v. Commissioner of Internal Revenue, 3 Cir., 163 F.2d 796, 800-801; 20 Am.Jur. 105, Evidence, § 87.’
