@@ -2,7 +2,7 @@
 court: "Superior Court of Guam"
 docket: "Civil No. 795-76"
 decided: "1980-03-06"
-citations: ["2 Guam 89", "2 Guam 94"]
+citations: ["2 Guam 89"]
 reporter: "guam"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
