@@ -156,7 +156,7 @@ reference	path
 1 Guam 536	decisions/superior-court-of-guam/1978/1-Guam-536.md
 1 Guam 538	decisions/superior-court-of-guam/1978/1-Guam-538.md
 1 Guam 544	decisions/superior-court-of-guam/1978/1-Guam-544.md
-1 Guam 547	decisions/superior-court-of-guam/1978/1-Guam-549.md
+1 Guam 547	decisions/superior-court-of-guam/1978/1-Guam-547.md
 1 Guam 549	decisions/superior-court-of-guam/1978/1-Guam-549.md
 1 Guam 555	decisions/superior-court-of-guam/1978/1-Guam-555.md
 1 Guam 556	decisions/superior-court-of-guam/1978/1-Guam-556.md
@@ -218,7 +218,7 @@ reference	path
 2 Guam 13	decisions/superior-court-of-guam/1980/2-Guam-13.md
 2 Guam 131	decisions/district-court-of-guam/1978/2-Guam-131.md
 2 Guam 132	decisions/district-court-of-guam/1978/2-Guam-132.md
-2 Guam 134	decisions/district-court-of-guam/1978/2-Guam-132.md
+2 Guam 134	decisions/district-court-of-guam/1978/2-Guam-134.md
 2 Guam 135	decisions/district-court-of-guam/1980/2-Guam-135.md
 2 Guam 136	decisions/district-court-of-guam/1980/2-Guam-136.md
 2 Guam 14	decisions/superior-court-of-guam/1980/2-Guam-14.md
@@ -268,13 +268,13 @@ reference	path
 2 Guam 72	decisions/superior-court-of-guam/1980/2-Guam-72.md
 2 Guam 74	decisions/superior-court-of-guam/1980/2-Guam-74.md
 2 Guam 76	decisions/superior-court-of-guam/1977/2-Guam-76.md
-2 Guam 78	decisions/superior-court-of-guam/1977/2-Guam-76.md
+2 Guam 78	decisions/superior-court-of-guam/1977/2-Guam-78.md
 2 Guam 79	decisions/superior-court-of-guam/1979/2-Guam-79.md
 2 Guam 81	decisions/superior-court-of-guam/1980/2-Guam-81.md
 2 Guam 84	decisions/superior-court-of-guam/1980/2-Guam-84.md
 2 Guam 87	decisions/superior-court-of-guam/1980/2-Guam-87.md
 2 Guam 89	decisions/superior-court-of-guam/1980/2-Guam-89.md
-2 Guam 94	decisions/superior-court-of-guam/1980/2-Guam-89.md
+2 Guam 94	decisions/superior-court-of-guam/1980/2-Guam-94.md
 2 Guam 95	decisions/superior-court-of-guam/1980/2-Guam-95.md
 2 Guam 98	decisions/superior-court-of-guam/1980/2-Guam-98.md
 Adoption No. 118-75	decisions/superior-court-of-guam/1975/1-Guam-285.md
@@ -382,6 +382,7 @@ Civil No. 63-A	decisions/district-court-of-guam/1970/1-Guam-196.md
 Civil No. 635-79	decisions/superior-court-of-guam/1979/2-Guam-23.md
 Civil No. 64-A	decisions/district-court-of-guam/1970/1-Guam-193.md
 Civil No. 642-76	decisions/superior-court-of-guam/1977/2-Guam-76.md
+Civil No. 642-76	decisions/superior-court-of-guam/1977/2-Guam-78.md
 Civil No. 65-A	decisions/district-court-of-guam/1971/1-Guam-199.md
 Civil No. 651-76	decisions/superior-court-of-guam/1976/1-Guam-349.md
 Civil No. 662-76	decisions/superior-court-of-guam/1976/1-Guam-377.md
@@ -406,12 +407,14 @@ Civil No. 77-0007-A	decisions/district-court-of-guam/1978/1-Guam-470.md
 Civil No. 77-0020-A	decisions/district-court-of-guam/1978/1-Guam-471.md
 Civil No. 78-001	decisions/district-court-of-guam/1978/2-Guam-131.md
 Civil No. 78-001	decisions/district-court-of-guam/1978/2-Guam-132.md
+Civil No. 78-001	decisions/district-court-of-guam/1978/2-Guam-134.md
 Civil No. 78-0037A	decisions/district-court-of-guam/1980/2-Guam-195.md
 Civil No. 78-0401A	decisions/district-court-of-guam/1979/2-Guam-200.md
 Civil No. 785-77	decisions/superior-court-of-guam/1980/2-Guam-84.md
 Civil No. 79-00153	decisions/district-court-of-guam/1980/2-Guam-129.md
 Civil No. 79-00155	decisions/district-court-of-guam/1980/2-Guam-140.md
 Civil No. 795-76	decisions/superior-court-of-guam/1980/2-Guam-89.md
+Civil No. 795-76	decisions/superior-court-of-guam/1980/2-Guam-94.md
 Civil No. 8-A	decisions/district-court-of-guam/1958/1-Guam-30.md
 Civil No. 80-0031; Civil No. 80-0032; Civil No. 80-0034; Civil No. 80-0035	decisions/district-court-of-guam/1980/2-Guam-136.md
 Civil No. 806-75	decisions/superior-court-of-guam/1976/1-Guam-303.md
@@ -439,7 +442,6 @@ Civil No. 951-79	decisions/superior-court-of-guam/1980/2-Guam-15.md
 Civil No. 974-79	decisions/superior-court-of-guam/1980/2-Guam-81.md
 Civil No. 99-72	decisions/district-court-of-guam/1972/2-Guam-60.md
 Civil Nos. 190-79 & 102-80	decisions/superior-court-of-guam/1980/2-Guam-40.md
-Civil Nos. 47-75, 48-75, 49-75, 50-75, 51-75, 52-75, 53-75, 54-75, 55-75, 56-75, 57-75, 58-75, 59-75 and 71-75	decisions/superior-court-of-guam/1975/1-Guam-283.md
 Cr. No. 114F-79	decisions/superior-court-of-guam/1979/2-Guam-112.md
 Cr. No. 60F-79	decisions/superior-court-of-guam/1979/2-Guam-113.md
 Criminal Appeal No. 78-00036A	decisions/district-court-of-guam/1979/2-Guam-143.md
@@ -449,6 +451,7 @@ Criminal Case No. 101F-78	decisions/superior-court-of-guam/1978/1-Guam-555.md
 Criminal Case No. 104-78	decisions/superior-court-of-guam/1978/1-Guam-530.md
 Criminal Case No. 116F-78	decisions/superior-court-of-guam/1978/1-Guam-532.md
 Criminal Case No. 116F-78	decisions/superior-court-of-guam/1978/1-Guam-538.md
+Criminal Case No. 116F-78	decisions/superior-court-of-guam/1978/1-Guam-547.md
 Criminal Case No. 116F-78	decisions/superior-court-of-guam/1978/1-Guam-549.md
 Criminal Case No. 12-78	decisions/superior-court-of-guam/1978/1-Guam-518.md
 Criminal Case No. 148F-78	decisions/superior-court-of-guam/1978/1-Guam-566.md
@@ -540,8 +543,6 @@ Criminal No. 87F-76	decisions/superior-court-of-guam/1976/1-Guam-365--cap-531382
 Criminal No. 88F-76	decisions/superior-court-of-guam/1976/1-Guam-365.md
 Criminal No. 97F-76	decisions/superior-court-of-guam/1976/1-Guam-366--cap-5313633.md
 Criminal No. 98F-76	decisions/superior-court-of-guam/1976/1-Guam-353.md
-Criminal Nos. 41F-75, 47F-75, 46F-75, 44F-75, 37F-75, 42F-75, 40F-75, 39F-75, 45F-75, 38F-75, 43F-75	decisions/superior-court-of-guam/1975/1-Guam-280.md
-Criminal Nos. 41F-75, 47F-75, 46F-75, 44F-75, 37F-75, 42F-75, 40F-75, 39F-75, 45F-75, 38F-75, 43F-75	decisions/supreme-court-of-guam/1975/1-Guam-501.md
 Criminal Nos. 79-00017A; 79-00021A and 79-00022A	decisions/district-court-of-guam/1979/2-Guam-150.md
 Domestic Case #303-75	decisions/superior-court-of-guam/1979/2-Guam-127.md
 Domestic No. 185-75	decisions/superior-court-of-guam/1976/1-Guam-345.md
@@ -606,6 +607,7 @@ cap-5312386	decisions/superior-court-of-guam/1979/1-Guam-586.md
 cap-5312407	decisions/district-court-of-guam/1971/1-Guam-199.md
 cap-5312425	decisions/superior-court-of-guam/1976/1-Guam-378.md
 cap-5312454	decisions/district-court-of-guam/1962/1-Guam-66.md
+cap-5312484	decisions/superior-court-of-guam/1978/1-Guam-547.md
 cap-5312515	decisions/superior-court-of-guam/1978/1-Guam-520.md
 cap-5312541	decisions/superior-court-of-guam/1976/1-Guam-347.md
 cap-5312554	decisions/district-court-of-guam/1962/1-Guam-387.md
@@ -762,6 +764,7 @@ cap-852957	decisions/superior-court-of-guam/1980/2-Guam-14.md
 cap-852958	decisions/district-court-of-guam/1979/2-Guam-150.md
 cap-852959	decisions/superior-court-of-guam/1980/2-Guam-49.md
 cap-852960	decisions/superior-court-of-guam/1980/2-Guam-6.md
+cap-852961	decisions/district-court-of-guam/1978/2-Guam-134.md
 cap-852962	decisions/district-court-of-guam/1980/2-Guam-136.md
 cap-852963	decisions/superior-court-of-guam/1980/2-Guam-35.md
 cap-852964	decisions/superior-court-of-guam/1980/2-Guam-102.md
@@ -802,6 +805,7 @@ cap-852998	decisions/superior-court-of-guam/1980/2-Guam-125.md
 cap-852999	decisions/district-court-of-guam/1979/2-Guam-143.md
 cap-853000	decisions/superior-court-of-guam/1979/2-Guam-79.md
 cap-853001	decisions/superior-court-of-guam/1979/2-Guam-112.md
+cap-853002	decisions/superior-court-of-guam/1977/2-Guam-78.md
 cap-853003	decisions/superior-court-of-guam/1977/2-Guam-76.md
 cap-853004	decisions/superior-court-of-guam/1980/2-Guam-63.md
 cap-853005	decisions/superior-court-of-guam/1980/2-Guam-101.md
@@ -809,6 +813,7 @@ cap-853006	decisions/district-court-of-guam/1979/2-Guam-200.md
 cap-853007	decisions/superior-court-of-guam/1980/2-Guam-81.md
 cap-853008	decisions/superior-court-of-guam/1979/2-Guam-113.md
 cap-853009	decisions/district-court-of-guam/1980/2-Guam-135.md
+cap-853010	decisions/superior-court-of-guam/1980/2-Guam-94.md
 cap-853011	decisions/superior-court-of-guam/1980/2-Guam-31.md
 cap-853012	decisions/superior-court-of-guam/1980/2-Guam-61.md
 cap-853013	decisions/district-court-of-guam/1980/2-Guam-181.md
